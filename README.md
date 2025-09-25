@@ -23,10 +23,10 @@ Provision a Docker container using Terraform on an AWS EC2 (Amazon Linux 2) inst
  ---  
 ## Screenshots
 NGINX Running in Browser
- ![Alt Text]()
+ ![Alt Text]( ![Alt Text](https://github.com/gawali-priyanka/Jenkins-pipeline-task/blob/main/screenshots/Static-Web-App.png?raw=true))
 
 Docker Container Running
- ![Alt Text]()
+ ![Alt Text](https://github.com/gawali-priyanka/terraform-docker-task/blob/main/screenshort/Create-docker-container.png?raw=true)
 
 ## How to Run This 
 1) SSH into your EC2 instance
